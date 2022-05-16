@@ -1,0 +1,33 @@
+<html>
+<head> 
+type-3 Table
+</head>
+<body>
+<table>
+<thead>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Enroll no</th>
+<th>division</th>
+<th>department</th>
+</tr>
+<tr>
+<td>Jenil</td>
+<td>632</td>
+<td>k</td>
+<td>BCA</d>
+</tr>
+<tr>
+<td>Vinay</td>
+<td>717</td>
+<td>k</td>
+<td>BCA</td>
+</tbody>
+</thead>
+</table>
+
+
+</body>
+</html>
+
